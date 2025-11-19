@@ -8,3 +8,5 @@
   6. Iterators
   7. Cohesion and Coupling
   8. Abstraction and Modularity
+  9. Exception Handling
+  10. ENUMS
